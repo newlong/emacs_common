@@ -1,3 +1,7 @@
+
+;高亮括号
+(show-paren-mode t)
+
 ;; 填入大中小括号，双单引号的匹配
 ;; 详细格式可以参照C-h f skeleton-pair-alist  
 (setq skeleton-pair-alist  
